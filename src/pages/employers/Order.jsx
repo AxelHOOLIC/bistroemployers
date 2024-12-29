@@ -8,7 +8,7 @@ const Order = (props) => {
   const [errors, setErrors] = createSignal(false);
   const [table, setTable] = createSignal("");
 
-  const socket = io("127.0.0.1:3000");
+  const socket = io("https://bistrobackend.deno.dev/");
 
   const ErrorMessage = (props) => (
     <span class="font-roboto mb-2 text-sm font-medium text-rose-500">

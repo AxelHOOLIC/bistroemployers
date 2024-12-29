@@ -7,7 +7,7 @@ import PostDishReady from "../../api/PostDishReady";
 
 const PageKitchen = () => {
   // conection to socket to send messages
-  const socket = io("127.0.0.1:3000");
+  const socket = io("https://bistrobackend.deno.dev");
 
   // list of all orders
   const [orders, setOrders] = createSignal([]);
