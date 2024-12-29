@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Pizza Margarita",
+    "price": 12.99,
+    "description": "one",
+    "category": "Huevos",
+    "img": "",
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "2",
+    "title": "Hamburguesa con queso",
+    "price": 9.99,
+    "description": "two",
+    "category": "Carnes",
+    "img": "",
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "3",
+    "title": "Ensalada César",
+    "description": "three",
+    "category": "Carnes",
+    "img": "",
+    "price": 8.5,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "4",
+    "title": "Pasta Alfredo",
+    "description": "four",
+    "category": "Carnes",
+    "img": "",
+    "price": 11.5,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "5",
+    "title": "Sopa de cebolla francesa",
+    "price": 7.99,
+    "description": "five",
+    "category": "Carnes",
+    "img": "",
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "6",
+    "title": "Filete mignon",
+    "description": "six",
+    "category": "Carnes",
+    "img": "",
+    "price": 25.99,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "7",
+    "title": "Sushi Nigiri",
+    "description": "seven",
+    "category": "Carnes",
+    "img": "",
+    "price": 15.99,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "8",
+    "title": "Tacos al pastor",
+    "description": "eight",
+    "category": "Carnes",
+    "img": "",
+    "price": 9.5,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  },
+  {
+    "id": "9",
+    "title": "Pollo a la brasa",
+    "description": "nine",
+    "category": "Carnes",
+    "img": "",
+    "price": 10.99,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu/": true
+  },
+  {
+    "id": "10",
+    "title": "Flan casero",
+    "description": "ten",
+    "category": "Carnes",
+    "img": "",
+    "price": 4.99,
+    "meta_data": {
+      "sold": 250,
+      "last_sold": "",
+      "img": ""
+    },
+    "inmenu": true
+  }
+]
